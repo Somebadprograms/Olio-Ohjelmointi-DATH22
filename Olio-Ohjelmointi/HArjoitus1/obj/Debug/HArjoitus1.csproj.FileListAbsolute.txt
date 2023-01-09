@@ -1,0 +1,8 @@
+C:\Users\Arttu Nykänen\source\repos\Somebadprograms\Olio-Ohjelmointi-DATH22\Olio-Ohjelmointi\HArjoitus1\bin\Debug\HArjoitus1.exe.config
+C:\Users\Arttu Nykänen\source\repos\Somebadprograms\Olio-Ohjelmointi-DATH22\Olio-Ohjelmointi\HArjoitus1\bin\Debug\HArjoitus1.exe
+C:\Users\Arttu Nykänen\source\repos\Somebadprograms\Olio-Ohjelmointi-DATH22\Olio-Ohjelmointi\HArjoitus1\bin\Debug\HArjoitus1.pdb
+C:\Users\Arttu Nykänen\source\repos\Somebadprograms\Olio-Ohjelmointi-DATH22\Olio-Ohjelmointi\HArjoitus1\obj\Debug\HArjoitus1.csproj.AssemblyReference.cache
+C:\Users\Arttu Nykänen\source\repos\Somebadprograms\Olio-Ohjelmointi-DATH22\Olio-Ohjelmointi\HArjoitus1\obj\Debug\HArjoitus1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Arttu Nykänen\source\repos\Somebadprograms\Olio-Ohjelmointi-DATH22\Olio-Ohjelmointi\HArjoitus1\obj\Debug\HArjoitus1.csproj.CoreCompileInputs.cache
+C:\Users\Arttu Nykänen\source\repos\Somebadprograms\Olio-Ohjelmointi-DATH22\Olio-Ohjelmointi\HArjoitus1\obj\Debug\HArjoitus1.exe
+C:\Users\Arttu Nykänen\source\repos\Somebadprograms\Olio-Ohjelmointi-DATH22\Olio-Ohjelmointi\HArjoitus1\obj\Debug\HArjoitus1.pdb

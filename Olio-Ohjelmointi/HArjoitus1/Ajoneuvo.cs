@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Olio_Ohjelmointi
+namespace HArjoitus1
 {
     internal class Ajoneuvo
     {
@@ -18,18 +18,7 @@ namespace Olio_Ohjelmointi
             Console.WriteLine("Huippu nopeus " + Nopeus);
             Console.WriteLine("Renkaiden määrä " + Renkaat);
         }
-    }
-    internal class ttt
-    {
-        static void Mai(string[] args)
-        {
-            Ajoneuvo ajoneuvo = new Ajoneuvo();
 
-            ajoneuvo.Nimi = "Bugatti";
-            ajoneuvo.Nopeus = 400;
-            ajoneuvo.Renkaat = 5;
 
-            ajoneuvo.TulostaData();
-        }
     }
 }
