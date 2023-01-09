@@ -1,0 +1,8 @@
+C:\Users\Arttu Nykänen\source\repos\Somebadprograms\Olio-Ohjelmointi-DATH22\Olio-Ohjelmointi\Olio-Ohjelmointi\bin\Debug\Olio-Ohjelmointi.exe.config
+C:\Users\Arttu Nykänen\source\repos\Somebadprograms\Olio-Ohjelmointi-DATH22\Olio-Ohjelmointi\Olio-Ohjelmointi\bin\Debug\Olio-Ohjelmointi.exe
+C:\Users\Arttu Nykänen\source\repos\Somebadprograms\Olio-Ohjelmointi-DATH22\Olio-Ohjelmointi\Olio-Ohjelmointi\bin\Debug\Olio-Ohjelmointi.pdb
+C:\Users\Arttu Nykänen\source\repos\Somebadprograms\Olio-Ohjelmointi-DATH22\Olio-Ohjelmointi\Olio-Ohjelmointi\obj\Debug\Olio-Ohjelmointi.csproj.AssemblyReference.cache
+C:\Users\Arttu Nykänen\source\repos\Somebadprograms\Olio-Ohjelmointi-DATH22\Olio-Ohjelmointi\Olio-Ohjelmointi\obj\Debug\Olio-Ohjelmointi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Arttu Nykänen\source\repos\Somebadprograms\Olio-Ohjelmointi-DATH22\Olio-Ohjelmointi\Olio-Ohjelmointi\obj\Debug\Olio-Ohjelmointi.csproj.CoreCompileInputs.cache
+C:\Users\Arttu Nykänen\source\repos\Somebadprograms\Olio-Ohjelmointi-DATH22\Olio-Ohjelmointi\Olio-Ohjelmointi\obj\Debug\Olio-Ohjelmointi.exe
+C:\Users\Arttu Nykänen\source\repos\Somebadprograms\Olio-Ohjelmointi-DATH22\Olio-Ohjelmointi\Olio-Ohjelmointi\obj\Debug\Olio-Ohjelmointi.pdb
