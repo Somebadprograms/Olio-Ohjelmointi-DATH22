@@ -1,0 +1,8 @@
+C:\Users\Arttu Nykänen\source\repos\Somebadprograms\Olio-Ohjelmointi-DATH22\Olio-Ohjelmointi\Elevator\bin\Debug\Elevator.exe.config
+C:\Users\Arttu Nykänen\source\repos\Somebadprograms\Olio-Ohjelmointi-DATH22\Olio-Ohjelmointi\Elevator\bin\Debug\Elevator.exe
+C:\Users\Arttu Nykänen\source\repos\Somebadprograms\Olio-Ohjelmointi-DATH22\Olio-Ohjelmointi\Elevator\bin\Debug\Elevator.pdb
+C:\Users\Arttu Nykänen\source\repos\Somebadprograms\Olio-Ohjelmointi-DATH22\Olio-Ohjelmointi\Elevator\obj\Debug\Elevator.csproj.AssemblyReference.cache
+C:\Users\Arttu Nykänen\source\repos\Somebadprograms\Olio-Ohjelmointi-DATH22\Olio-Ohjelmointi\Elevator\obj\Debug\Elevator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Arttu Nykänen\source\repos\Somebadprograms\Olio-Ohjelmointi-DATH22\Olio-Ohjelmointi\Elevator\obj\Debug\Elevator.csproj.CoreCompileInputs.cache
+C:\Users\Arttu Nykänen\source\repos\Somebadprograms\Olio-Ohjelmointi-DATH22\Olio-Ohjelmointi\Elevator\obj\Debug\Elevator.exe
+C:\Users\Arttu Nykänen\source\repos\Somebadprograms\Olio-Ohjelmointi-DATH22\Olio-Ohjelmointi\Elevator\obj\Debug\Elevator.pdb
