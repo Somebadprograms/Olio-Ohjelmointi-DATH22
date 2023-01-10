@@ -1,0 +1,8 @@
+C:\Users\Arttu Nykänen\source\repos\Somebadprograms\Olio-Ohjelmointi-DATH22\Olio-Ohjelmointi\teht6\bin\Debug\teht6.exe.config
+C:\Users\Arttu Nykänen\source\repos\Somebadprograms\Olio-Ohjelmointi-DATH22\Olio-Ohjelmointi\teht6\bin\Debug\teht6.exe
+C:\Users\Arttu Nykänen\source\repos\Somebadprograms\Olio-Ohjelmointi-DATH22\Olio-Ohjelmointi\teht6\bin\Debug\teht6.pdb
+C:\Users\Arttu Nykänen\source\repos\Somebadprograms\Olio-Ohjelmointi-DATH22\Olio-Ohjelmointi\teht6\obj\Debug\teht6.csproj.AssemblyReference.cache
+C:\Users\Arttu Nykänen\source\repos\Somebadprograms\Olio-Ohjelmointi-DATH22\Olio-Ohjelmointi\teht6\obj\Debug\teht6.csproj.SuggestedBindingRedirects.cache
+C:\Users\Arttu Nykänen\source\repos\Somebadprograms\Olio-Ohjelmointi-DATH22\Olio-Ohjelmointi\teht6\obj\Debug\teht6.csproj.CoreCompileInputs.cache
+C:\Users\Arttu Nykänen\source\repos\Somebadprograms\Olio-Ohjelmointi-DATH22\Olio-Ohjelmointi\teht6\obj\Debug\teht6.exe
+C:\Users\Arttu Nykänen\source\repos\Somebadprograms\Olio-Ohjelmointi-DATH22\Olio-Ohjelmointi\teht6\obj\Debug\teht6.pdb
