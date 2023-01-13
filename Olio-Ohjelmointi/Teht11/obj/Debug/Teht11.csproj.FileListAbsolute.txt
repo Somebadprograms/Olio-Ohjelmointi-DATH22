@@ -1,0 +1,3 @@
+C:\Users\Arttu Nykänen\source\repos\Somebadprograms\Olio-Ohjelmointi-DATH22\Olio-Ohjelmointi\Teht11\obj\Debug\Teht11.csproj.AssemblyReference.cache
+C:\Users\Arttu Nykänen\source\repos\Somebadprograms\Olio-Ohjelmointi-DATH22\Olio-Ohjelmointi\Teht11\obj\Debug\Teht11.csproj.SuggestedBindingRedirects.cache
+C:\Users\Arttu Nykänen\source\repos\Somebadprograms\Olio-Ohjelmointi-DATH22\Olio-Ohjelmointi\Teht11\obj\Debug\Teht11.csproj.CoreCompileInputs.cache

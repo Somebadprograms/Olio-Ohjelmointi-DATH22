@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -10,13 +11,12 @@ namespace teht6
     {
         static void Main(string[] args)
         {
-            Animals.TotalAnimals = 0;
-            Dog dog1 = new Dog();
-            dog1.MakeSound();
-            Cat cat1 = new Cat();
-            cat1.MakeSound();
-            Console.WriteLine("Total animals created: " + Animals.TotalAnimals);
-            Console.ReadLine();
+            Animals animals = new Animals();
+            animals.häntä = true;
+            animals.vari = "keltainen";
+            animals.paino = 100; 
+            Console.WriteLine(animals);
+
         }
     }
 }

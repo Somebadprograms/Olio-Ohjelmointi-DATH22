@@ -4,10 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace teht6
+namespace Teht12
 {
-    class Cat : Animals
+    internal class Program
     {
-     
+        static void Main(string[] args)
+        {
+        }
     }
 }

@@ -8,15 +8,13 @@ namespace teht6
 {
     class Animals
     {
-        public static int TotalAnimals { get; set; }
-        public virtual string Sound { get; set; }
-        public virtual void MakeSound()
+        public int paino;
+        public string vari;
+        public bool häntä;
+
+        public void Tulostatiedot()
         {
-            Console.WriteLine("This animal makes a generic sound.");
-        }
-        public Animals()
-        {
-            TotalAnimals++;
+            Console.WriteLine(paino + vari + häntä);
         }
     }
 }
