@@ -19,6 +19,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elevator", "Elevator\Elevat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8", "8\8.csproj", "{044874DA-2B31-4DD0-9588-2FF77E07C59A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wpfapp", "wpfapp\wpfapp.csproj", "{59EDD0AF-E557-4588-9F05-FA4B0B78C3EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mail", "mail\mail.csproj", "{30842C73-1DF0-4BF9-9438-787A5548198C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +61,14 @@ Global
 		{044874DA-2B31-4DD0-9588-2FF77E07C59A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{044874DA-2B31-4DD0-9588-2FF77E07C59A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{044874DA-2B31-4DD0-9588-2FF77E07C59A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59EDD0AF-E557-4588-9F05-FA4B0B78C3EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59EDD0AF-E557-4588-9F05-FA4B0B78C3EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59EDD0AF-E557-4588-9F05-FA4B0B78C3EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59EDD0AF-E557-4588-9F05-FA4B0B78C3EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30842C73-1DF0-4BF9-9438-787A5548198C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30842C73-1DF0-4BF9-9438-787A5548198C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30842C73-1DF0-4BF9-9438-787A5548198C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30842C73-1DF0-4BF9-9438-787A5548198C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
