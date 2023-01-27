@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wpfapp", "wpfapp\wpfapp.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mail", "mail\mail.csproj", "{30842C73-1DF0-4BF9-9438-787A5548198C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp1", "WpfApp1\WpfApp1.csproj", "{2561F498-8F9F-4797-A63E-8A9D72FFBC78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProApp", "ProApp\ProApp.csproj", "{56A589A9-17E4-4161-9E62-27499CB111BB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{30842C73-1DF0-4BF9-9438-787A5548198C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30842C73-1DF0-4BF9-9438-787A5548198C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{30842C73-1DF0-4BF9-9438-787A5548198C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2561F498-8F9F-4797-A63E-8A9D72FFBC78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2561F498-8F9F-4797-A63E-8A9D72FFBC78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2561F498-8F9F-4797-A63E-8A9D72FFBC78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2561F498-8F9F-4797-A63E-8A9D72FFBC78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56A589A9-17E4-4161-9E62-27499CB111BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56A589A9-17E4-4161-9E62-27499CB111BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56A589A9-17E4-4161-9E62-27499CB111BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56A589A9-17E4-4161-9E62-27499CB111BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
